@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  LVS
+
+  Created by Jalal on 12/13/16.
+  Copyright © 2016 Abd Al Majed. All rights reserved.
+*/
+
+//navigations names
+"home" = "مدرسة القرية الصغيرة";
+"mail" = "البريد";
+"mark" = "العلامات";
+"notes" = "الملاحظات";
+"schedule" = "برنامج الدوام";
+"payments" = "الأقساط";
+"teaching_staff" = "الكادر التدريسي";
+"administrative_staff" = "الكادر الإداري";
+"call_us" = "اتصل بنا";
+"about_us" = "حول";
+"profile" = "الحساب الشخصي";
+"logout" = "تسجيل الخروج";
+
+"chose_child" = "اختر طالب";
+
+//login
+"user_id" = "اسم المستخدم";
+"password" = "كلمة المرور";
+"login" = "تسجيل الدخول";
+
+//profile
+"name" = "الاسم";
+"change_password" = "تغيير كلمة المرور";
+"old_password" = "كلمة المرور القديمة";
+"new_password" = "كلمة المرور الجديدة";
+"submit" = "حفظ";
+"password_has_changed" = "تم تغيير كلمة المرور بنجاح";
+"password_has_not_changed" = "فشل تغيير كلمة المرور";
+
+//mail details
+"delete" = "حذف";
+"deleteAlert_title" = "حذف البريد";
+"deleteAlert_message" = "هل تريد حقا حذف هذا البريد";
+"ok" = "نعم";
+"cancel" = "إلغاء";
+"deleteing_mail" = "يتم الأن حذف البريد";
+"mail_has_been_deleted" = "تم حذف البريد بنجاح";
+"failed_to_delete_mail" = "فشل حذف البريد";
+"downloading" = "يتم الأن تنزيل الملف...";
+
+//home
+"new_emails" = "الرسائل الأخيرة";
+"marks" = "العلامات";
+"absence" = "الحضور والغياب";
+"present_days" = "أيام الحضور :";
+"absence_days" = "أيام الغياب :";
+"no_mails" = "لا يوجد رسائل";
+"no_marks" = "لا يوجد علامات";
+"no_absence_days" = "لا يوجد أيام غياب حتى الحظة";
+"days" = "يوم";
+
+//call us
+"call" = "اتصال";
+
+//payments
+"total" = "القسط المدرسي";
+"total_payment" = "إجمالي الدفعات";
+"net_total" = "المتبقي";
+"number" = "الرقم";
+"value" = "القيمة";
+"date" = "أخر تحديث";
+
+"old_password_required" = "كلمة المرور القديمة مطلوبة";
+"new_password_required" = "كلمة المرور الجديدة مطلوبة";
+"user_id_required" = "اسم المستخدم مطلوب";
+"password_required" = "كلمة المرورس مطلوبة";
+
+"no_notes" = "لا يوجد ملاحظات";

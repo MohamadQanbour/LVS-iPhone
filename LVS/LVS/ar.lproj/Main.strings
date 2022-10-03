@@ -1,0 +1,75 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1Jj-cg-TT7"; */
+"1Jj-cg-TT7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Administration Staff"; ObjectID = "1a6-Kf-Lua"; */
+"1a6-Kf-Lua.text" = "Administration Staff";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5rY-SW-5UN"; */
+"5rY-SW-5UN.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Bjr-B3-usx"; */
+"Bjr-B3-usx.title" = "Item";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "CAO-Pt-2Xj"; */
+"CAO-Pt-2Xj.text" = "Home";
+
+/* Class = "UILabel"; text = "Teaching Staff"; ObjectID = "DQb-jC-IyM"; */
+"DQb-jC-IyM.text" = "Teaching Staff";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "Lal-EP-IAT"; */
+"Lal-EP-IAT.normalTitle" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NTM-pk-2w1"; */
+"NTM-pk-2w1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Nko-iP-OPX"; */
+"Nko-iP-OPX.text" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pck-M8-tON"; */
+"Pck-M8-tON.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QYR-lT-tR8"; */
+"QYR-lT-tR8.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "user id"; ObjectID = "UgB-tC-AWZ"; */
+"UgB-tC-AWZ.placeholder" = "user id";
+
+/* Class = "UILabel"; text = "Sign Out"; ObjectID = "V7d-4s-PwP"; */
+"V7d-4s-PwP.text" = "Sign Out";
+
+/* Class = "UILabel"; text = "Mail"; ObjectID = "Vfe-Jj-2gJ"; */
+"Vfe-Jj-2gJ.text" = "Mail";
+
+/* Class = "UILabel"; text = "Schedule"; ObjectID = "Yqg-j4-oyI"; */
+"Yqg-j4-oyI.text" = "Schedule";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "ZWg-r3-x3H"; */
+"ZWg-r3-x3H.text" = "Notes";
+
+/* Class = "UILabel"; text = "Mark"; ObjectID = "dm4-kb-g15"; */
+"dm4-kb-g15.text" = "Mark";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fGd-6z-h7F"; */
+"fGd-6z-h7F.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Call Us"; ObjectID = "prI-En-IHX"; */
+"prI-En-IHX.text" = "Call Us";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "riC-1y-AJF"; */
+"riC-1y-AJF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "sjK-sj-yEb"; */
+"sjK-sj-yEb.text" = "About Us";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "urf-xD-g6R"; */
+"urf-xD-g6R.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v0g-NE-gxv"; */
+"v0g-NE-gxv.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "v43-OZ-IGM"; */
+"v43-OZ-IGM.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "vwF-FQ-c41"; */
+"vwF-FQ-c41.placeholder" = "password";

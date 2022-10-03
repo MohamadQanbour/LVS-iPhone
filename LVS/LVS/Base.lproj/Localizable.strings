@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  LVS
+
+  Created by Jalal on 12/13/16.
+  Copyright © 2016 Abd Al Majed. All rights reserved.
+*/
+
+//navigations names
+"home" = "Little Village School";
+"mail" = "Mail";
+"mark" = "Marks";
+"notes" = "Notes";
+"schedule" = "Schedule";
+"payments" = "Payments";
+"teaching_staff" = "Teaching Staff";
+"administrative_staff" = "Administrative Staff";
+"call_us" = "Call Us";
+"about_us" = "About Us";
+"profile" = "Profile";
+"logout" = "Log Out";
+
+"chose_child" = "Chose Child";
+
+//login
+"user_id" = "User id";
+"password" = "Password";
+"login" = "LOGIN";
+
+//profile
+"name" = "Name";
+"change_password" = "CHANGE PASSWORD";
+"old_password" = "Old Password";
+"new_password" = "New Password";
+"submit" = "SUBMIT";
+"password_has_changed" = "Password Has Changed Successfuly";
+"password_has_not_changed" = "Change Password Fault";
+
+//mail details
+"delete" = "Delete";
+"deleteAlert_title" = "Delete Mail";
+"deleteAlert_message" = "Are You Sure You Want To Delete This Mail?";
+"ok" = "Ok";
+"cancel" = "Cancel";
+"deleteing_mail" = "Deleting Mail...";
+"mail_has_been_deleted" = "Mail has been deleted successfully";
+"failed_to_delete_mail" = "Failed To Delete This Mail";
+"downloading" = "Downloading...";
+
+//home
+"new_emails" = "Recent Emails";
+"marks" = "Marks";
+"absence" = "Attendance";
+"present_days" = "Present Days :";
+"absence_days" = "Absence Days :";
+"no_mails" = "No Emails";
+"no_marks" = "No Marks";
+"no_absence_days" = "No Absence Days";
+"days" = "days";
+
+//call us
+"call" = "Call";
+
+//payments
+"total" = "Tution";
+"total_payment" = "Total Payments";
+"net_total" = "Remaining of Tution";
+"number" = "No.";
+"value" = "Value";
+"date" = "Last Update";
+
+"old_password_required" = "Old Password is Required";
+"new_password_required" = "New Password is Required";
+"user_id_required" = "User id is Required";
+"password_required" = "Password is Required";
+
+"no_notes" = "No Notes";
